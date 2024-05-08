@@ -33,7 +33,8 @@ Application functions:
 * Lack of notes filters and orders 
 * Can use firebase authentication instead of username password
 * Better navigation
-* Dont have any progress view to improve UX 
+* Dont have any progress view to improve UX
+* Can only take note by words, not supporting image and html
 
 
 
